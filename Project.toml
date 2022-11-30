@@ -1,6 +1,6 @@
 name = "mumax3"
 uuid = "e3d62f0e-261c-4a8d-981e-c47316984382"
-authors = ["foile "]
+authors = ["Dreycen Foiles"]
 version = "0.1.0"
 
 [deps]
