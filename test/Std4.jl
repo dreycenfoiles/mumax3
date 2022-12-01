@@ -28,4 +28,3 @@ end
 
 fields, table = run_mumax3(std4()) 
 
-CSV.write("std4.csv", table)

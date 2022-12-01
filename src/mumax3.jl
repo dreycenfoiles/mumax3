@@ -34,7 +34,9 @@ function run_mumax3(script)
     rm(outputdir, recursive=true) # Remove output directory
     rm(scriptname) # Remove script file
 
-    return fields, table
+    data = Dict("fields" => fields, "table" => table)
+
+    return data 
 
 end
     
